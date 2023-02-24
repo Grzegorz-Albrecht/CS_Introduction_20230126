@@ -1,7 +1,11 @@
 ﻿//4. По заданному с клавиатуры номеру дня недели вывести его название
 int N;
 string s;
+<<<<<<< HEAD
 System.Console.Write("Введите номер дня: ");
+=======
+System.Console.Write("Введите номер дня:");
+>>>>>>> a78746ff77b6a0e4bfd8c1f35fc2f1db5520a049
 s=Console.ReadLine();
 N=Convert.ToInt32(s);
 if (N==1)
